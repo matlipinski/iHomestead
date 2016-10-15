@@ -1,4 +1,4 @@
-package pl.homestead;
+package pl.homestead.web;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.SpringApplication;
