@@ -9,6 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class IHomesteadApplication {
 
 	public static void main(String[] args) {
+		log.info("Starting application");
 		SpringApplication.run(IHomesteadApplication.class, args);
 	}
 }
